@@ -71,23 +71,7 @@
 
 ---
 
-## 🛠️ Development
 
-### Source Code
-Full source code is available at: **[voikatto/src](https://github.com/voikatto/src)**
-
-### Build from Source
-```bash
-git clone https://github.com/voikatto/src.git
-cd src
-npm install
-npm run build
-```
-
-### Contributing
-We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) before submitting pull requests.
-
----
 
 ## 🔧 Installation Guide
 
