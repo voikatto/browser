@@ -115,14 +115,13 @@
 ## 📋 Roadmap
 
 ### v1.1 (Next Release)
-- [ ] Built-in password manager
+- [ ] Full Browser extensions support
 - [ ] Custom DNS settings
 - [ ] Advanced proxy configuration
 - [ ] Dark web search engine
 
 ### v1.2 (Future)
 - [ ] Mobile version (Android)
-- [ ] Browser extensions support
 - [ ] Cryptocurrency wallet integration
 - [ ] Decentralized storage
 
